@@ -1,5 +1,9 @@
 # EcoStation CGR — Collision Prediction & CGR Routing in LEO Constellations
 
+### ▶ [Open the live demo](https://ravazque.github.io/NASA-Space-APPs-Challenge_2025/)
+
+Runs in the browser, nothing to install. Entry for NASA Space Apps 2025; not affiliated with or endorsed by NASA.
+
 ---
 
 > [!WARNING]
@@ -7,7 +11,7 @@
 > * The **collision prediction service that is not embedded in `index.html`** relies on an **external API** to operate.
 > * The **CGR component** runs on a **realistic simulated scenario**. Inside its folder you can start it by running: `make run`.
 >
-> **Quick demo / visualization:** open `index.html` (at the repo root) directly in your browser.
+> **Quick demo / visualization:** [live demo on GitHub Pages](https://ravazque.github.io/NASA-Space-APPs-Challenge_2025/), or open `index.html` (at the repo root) directly in your browser.
 
 ---
 
@@ -35,7 +39,7 @@ The goal is to enable **rapid experiments** and exploration of routing decisions
 
 1. Download or clone the repository.
 2. Open **`index.html`** in your browser (double‑click or `File → Open`). No backend is required for the basic visualization.
-3. There is also a link at the beginning of this documentation that will take you to our project.
+3. Or skip the download: the [live demo](https://ravazque.github.io/NASA-Space-APPs-Challenge_2025/) serves the same `index.html`.
 
 **CGR & Prediction services (simulated/remote):**
 
