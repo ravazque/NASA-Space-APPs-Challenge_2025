@@ -167,10 +167,3 @@ CGR is powered by a **contact plan** (e.g., CSV) with minimal fields: `from`, `t
 ## 11) Credits & responsible use
 
 Educational prototype based on **DTN/CGR** ideas applied to LEO. Usage is **experimental** and **does not** replace operational **Conjunction Assessment** or mission tools.
-
----
-
-### Links
-
-* **Repository:** [https://github.com/ravazque/NASA-Space-APPs-Challenge](https://github.com/ravazque/NASA-Space-APPs-Challenge)
-* **Visualization:** open `index.html` (at the repo root) directly in your browser.
