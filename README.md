@@ -1,6 +1,6 @@
 # EcoStation CGR — Collision Prediction & CGR Routing in LEO Constellations
 
-### ▶ [Open the live demo](https://ravazque.github.io/NASA-Space-APPs-Challenge_2025/)
+### [Open the live demo](https://ravazque.github.io/NASA-Space-APPs-Challenge_2025/)
 
 Runs in the browser, nothing to install. Entry for NASA Space Apps 2025; not affiliated with or endorsed by NASA.
 
